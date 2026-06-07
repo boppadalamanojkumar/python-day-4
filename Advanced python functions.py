@@ -9,9 +9,9 @@
 add=lambda a,b:a+b
 print(add(3,2))  #output is 5
 
-#--lambda function is like--
-squre=lambda x:x*x
-print(squre(4)) #output is 16
+#----squaring----
+square=lambda x:x*x
+print(square(4)) #output is 16
 
 #why use lambda function--
 #reduces code length, easy to use for simple operations
